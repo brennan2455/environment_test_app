@@ -2,6 +2,12 @@
 
 one:
   title: MyString
+  author: MyString
+  price: MyDecimal
+  published_date: MyDate
 
 two:
   title: MyString
+  author: MyString
+  price: MyDecimal
+  published_date: MyDate
